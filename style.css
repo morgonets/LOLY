@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.flexBox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+.box{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.yellow{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: yellow;
+}
